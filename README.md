@@ -5,6 +5,8 @@ It only works on Chrome. The Widget URL runs on Chrome if you use it as the sour
 
 If you use the "Launch" button, you will need Chrome because it runs in your browser.
 
+You can see a [https://luminoray.github.io/foil-slabs/demo](demo here).
+
 # Installation
 Copy the contents of each file to the top of the corresponding tab in Streamlabs:
 1. [https://github.com/luminoray/foil-slabs/blob/main/html.html](html.html) -> HTML

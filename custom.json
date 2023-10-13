@@ -1,0 +1,22 @@
+{
+  "instructions": "Add this at the beginning of Custom Fields",
+  "color1": {
+      "label": "Color Picker Example",
+      "type": "colorpicker",
+      "value": "#F08"
+  },
+  "color2": {
+    "label": "Color Picker Example",
+    "type": "colorpicker",
+    "value": "#08F"
+  },
+  "foilSpeed": {
+    "label": "Foil Speed",
+    "type": "slider",
+    "name": "",
+    "value": "5",
+    "max": 50,
+    "min": 1,
+    "steps": 1
+  }
+}

@@ -1,0 +1,4 @@
+/* Add this at the beginning of CSS*/
+#alert-image {
+  filter: url(#alpha_filter);
+}
